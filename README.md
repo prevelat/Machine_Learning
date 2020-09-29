@@ -6,10 +6,10 @@ ML bootcamp main concepts learned:
 - Pandas
 - Numpy
 - Tensorflow
-- tf.stimator
+- tf.estimator
 - tf.keras
 - tf.agents
 
 Milestone:
 
-- Distibuted Learning implemention with cloud based storage (Google - Drive / Bucket / Big Query)
+- Distributed Learning implemention with cloud based storage (Google - Drive / Bucket / Big Query)
